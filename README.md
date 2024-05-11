@@ -1,2 +1,2 @@
-<h4>Passionate Android Developer with Kotlin and Java (Both). </h4>
+<h4>Passionate Mobile apps Developer Cross platform or Native. </h4>
 Like to learn new technology and reading books of fictions.
