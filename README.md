@@ -5,7 +5,15 @@ I'm a passionate **Android Developer** with over 2 years of freelancing experien
 ## 💻 About Me
 - 🌍 I am fluent in both **Bengali** (mother tongue) and **English**.
 - 📱 My love for Android development started during my freelancing journey, and I’ve had the opportunity to work on various types of projects—each challenging me to push the boundaries of my creativity and coding skills.
-  
+
+## 💼 Experience
+**[Bangladesh Lamps LTD (Transcom)]** - *MIS & IT Officer (Android Developer)*  
+*Duration: [May, 2024] – Present*  
+- Develop and maintain new features to existing Android applications.
+- Every new features ensured that legacy devices also support.
+- Implement MVVM architecture, integrate APIs, and use modern tools like Room Database and Retrofit to Old apps.
+- Regularly debug and improve application performance, ensuring a seamless user experience.
+
 ## 🛠️ Projects
 Here are a couple of my personal projects that reflect my ability to build solutions for real-world problems:
 
