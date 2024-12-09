@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Mehedi Hasan]!
 
-I'm a passionate **Android Developer** with over 2 years of freelancing experience and 5 months of local industry expertise. My primary focus is on building clean, scalable, and user-friendly Android applications, and I specialize in using **Kotlin** to bring ideas to life.
+I'm a passionate **Android Developer** with over 2 years of freelancing experience and 6 months of local industry expertise. My primary focus is on building clean, scalable, and user-friendly Android applications, and I specialize in using **Kotlin** to bring ideas to life.
 
 ## 💻 About Me
 - 🌍 I am fluent in both **Bengali** (mother tongue) and **English**.
