@@ -20,8 +20,8 @@ Here are a couple of my personal projects that reflect my ability to build solut
 ### 1. **EBillzen**
   An Android application designed to help manage and calculate electric meter bills for residences or individual rooms. This tool simplifies the process, ensuring users get an accurate and easy-to-understand bill summary.
 
-### 2. **DwellingManager** (In Progress)
-  A complete home management solution for homeowners, allowing them to manage various aspects of home ownership easily. From tenant information to maintenance tasks, DwellingManager offers a convenient way to stay organized.
+### 2. **Simply Ads** (In Progress)
+  A simple place where any type of ads based on user choose will appear on their news feed. A platform where advertiser & viewers meets their needs.
 
 ## 🌟 Skills
 - **Languages**: Kotlin, Java, PHP, C#
