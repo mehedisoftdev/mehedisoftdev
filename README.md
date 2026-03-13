@@ -15,7 +15,7 @@ Currently, I work as an **IT Officer at BLPLC (a Transcom sister company)**, a l
 An open-source, highly customizable, and fully responsive Flutter table widget builder. Designed for complex, nested headers and dynamic data visualization, it features premium export capabilities (Excel, PDF, Word) and interactive data-entry grids. 
 
 ### 2. **Enterprise Solutions (BLPLC / Transcom)**
-Led the development and continuous improvement of internal business applications (including Transtec 360 and APX Business Application). Focused on optimizing performance, securing API endpoints, and improving the daily workflow of enterprise users.
+Led the development and continuous improvement of internal business applications (including BrightFlow and Transtec 360 Application). Focused on optimizing performance, securing API endpoints, and improving the daily workflow of enterprise users.
 
 ### 3. **Innovate Nest Labs**
 A dynamic tech initiative where I architect modern web and mobile solutions. I handle everything from front-end app development to deploying scalable Python/Django backends using Nginx and Gunicorn on secure Linux servers.
