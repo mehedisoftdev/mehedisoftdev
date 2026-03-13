@@ -1,26 +1,34 @@
-# 👋 Hi, I'm [Mehedi Hasan]!
+# 👋 Hi, I'm Mehedi Hasan!
 
-I'm a passionate **Android Developer** with over 2 years of freelancing experience and 6 months of local industry expertise. My primary focus is on building clean, scalable, and user-friendly Android applications, and I specialize in using **Kotlin** to bring ideas to life.
+I'm a passionate **Software Developer & IT Officer** based in Dhaka, Bangladesh. With a strong foundation in native Android development, I have evolved into a versatile developer building scalable, cross-platform applications and robust backend systems. 
+
+Currently, I work as an **IT Officer at BLPLC (a Transcom sister company)**, a leading distributor of lighting and accessory products. In this role, I spearhead software development, system improvements, and enterprise-level application management to streamline business operations.
 
 ## 💻 About Me
-- 🌍 I am fluent in both **Bengali** (mother tongue) and **English**.
-- 📱 My love for Android development started during my freelancing journey, and I’ve had the opportunity to work on various types of projects—each challenging me to push the boundaries of my creativity and coding skills.
+- 🌍 Fluent in both **Bengali** (native) and **English**.
+- 🚀 My coding journey started with freelance Android development and has grown into architecting full-stack enterprise solutions, deploying VPS servers, and integrating custom machine learning models.
+- 🤝 I thrive on solving real-world business challenges, whether that means building an internal management tool or publishing open-source packages for the developer community.
 
+## 🛠️ Featured Projects & Contributions
 
-## 🛠️ Projects
-Here are a couple of my personal projects that reflect my ability to build solutions for real-world problems:
+### 1. **Nexora Report Builder (nrb)**
+An open-source, highly customizable, and fully responsive Flutter table widget builder. Designed for complex, nested headers and dynamic data visualization, it features premium export capabilities (Excel, PDF, Word) and interactive data-entry grids. 
 
-### 1. **EBillzen**
-  An Android application designed to help manage and calculate electric meter bills for residences or individual rooms. This tool simplifies the process, ensuring users get an accurate and easy-to-understand bill summary.
+### 2. **Enterprise Solutions (BLPLC / Transcom)**
+Led the development and continuous improvement of internal business applications (including Transtec 360 and APX Business Application). Focused on optimizing performance, securing API endpoints, and improving the daily workflow of enterprise users.
 
-### 2. **Simply Ads** (In Progress)
-  A simple place where any type of ads based on user choose will appear on their news feed. A platform where advertiser & viewers meets their needs.
+### 3. **Innovate Nest Labs**
+A dynamic tech initiative where I architect modern web and mobile solutions. I handle everything from front-end app development to deploying scalable Python/Django backends using Nginx and Gunicorn on secure Linux servers.
 
-## 🌟 Skills
-- **Languages**: Kotlin, Java, PHP, C#
-- **Android Development**: UI/UX design, MVVM architecture, Firebase, Retrofit (For Network/API based application), Room Database, Legacy Support
-- **Tools**: Android Studio, Git, Gradle, Visual Studio, Visual Studio Code
-- **Communication**: Fluent in English and Bengali, ensuring smooth collaboration across diverse teams and clients.
+### 4. **EBillzen**
+An Android application designed to help manage and calculate electric meter bills for residences or individual rooms. This tool simplifies the process, ensuring users get an accurate and easy-to-understand bill summary.
+
+## 🌟 Technical Skills
+- **Languages:** Dart, Python, Kotlin, Java, C#, SQL, PHP
+- **Frameworks & Libraries:** Flutter, Django, FastAPI, Android (MVVM, Room, Retrofit)
+- **Database & Backend:** PostgreSQL, SQLite, Firebase, RESTful API Design
+- **Infrastructure & Tools:** Linux VPS Deployment, Nginx, Gunicorn, SSL/Certbot, Git, Android Studio, VS Code
+- **Emerging Tech:** Custom AI/Machine Learning Model Integration
 
 ## 🎯 What Drives Me
-I’m driven by the need to solve everyday challenges through technology. With each project, I strive to create apps that not only function smoothly but also offer intuitive, elegant solutions that users can rely on.
+I’m driven by the need to solve everyday challenges through technology. With each project, I strive to create apps that not only function smoothly but also offer intuitive, elegant solutions that users can rely on—from consumer-facing apps to heavy-duty enterprise business tools.
